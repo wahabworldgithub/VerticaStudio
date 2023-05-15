@@ -12,3 +12,5 @@ Business Outcomes:
 --> Saves a lot of time and effort through automated executions
 --> No room for human errors as the tool generates recursive SQLs internally
 --> Performance improvements through bulk operations
+
+Password to open Vertica Studio Tool : vs123
